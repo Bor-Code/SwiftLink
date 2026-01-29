@@ -1,5 +1,4 @@
 🚀 SwiftLink - Yerel Ağ Dosya Transfer Aracı
-Show Image Show Image Show Image Show Image
 SwiftLink, yerel ağınızdaki bilgisayarlar arasında internet bağlantısı olmadan, kablolu bağlantı hızında güvenli dosya aktarımı yapabileceğiniz modern bir Windows programıdır.
 Artık USB bellek aramakla uğraşmayacaksınız; cihazlarınız otomatik olarak birbirini buluyor ve dosyalarınızı saniyeler içinde karşı tarafa gönderiyor.
 
